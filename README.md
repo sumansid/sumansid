@@ -1,7 +1,7 @@
 ### Hello World 👋 
 
 
-[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansid)](https://github.com/anuraghazra/github-readme-stats)
+[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansid)](https://github.com/sumansid)
 
 <!--
 **sumansid/sumansid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
