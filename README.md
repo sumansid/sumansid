@@ -1,7 +1,7 @@
 ### Hello World 👋 
 
 
-[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansid&show_icons=true&theme=dark)
 ](https://github.com/sumansid)
 
 <!--
