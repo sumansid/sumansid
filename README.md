@@ -1,5 +1,12 @@
 ### Hello World 👋 
 
+I'm Suman
+
+Currently working on :
+
+1. [GetSyntacs](https://getsyntacs.com/welcome) - Chrome extension + web app for language learners 
+2. Housing search platform for Interns.
+
 
 [![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansid&show_icons=true&theme=dark)
 ](https://github.com/sumansid)
