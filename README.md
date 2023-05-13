@@ -1,6 +1,10 @@
 ### Hello World 👋 
 
-I'm Suman
+I'm Suman. Here are some of my ongoing projects :
+
+📸 http://trycaptr.com 
+🏠 http://getcolive.com
+👨‍🏫 http://getsyntacs.com
 
 
 [![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansid&show_icons=true&theme=dark)
