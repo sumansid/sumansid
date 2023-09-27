@@ -4,10 +4,9 @@ I'm Suman. Here are some of my ongoing projects :
 
 📸 http://trycaptr.com 
 
-🏠 http://getcolive.com
-
 👨‍🏫 http://getsyntacs.com
 
+https://swiftcn.com
 
 
 <!--
