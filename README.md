@@ -2,11 +2,11 @@
 
 I'm Suman. Here are some of my ongoing projects :
 
-📸 http://trycaptr.com 
+📸 https://trycaptr.com 
 
-👨‍🏫 http://getsyntacs.com
+👨‍🏫 https://getsyntacs.com
 
-https://mobilecn.lol
+📱 https://mobilecn.lol
 
 
 <!--
