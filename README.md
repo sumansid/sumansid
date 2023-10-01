@@ -6,7 +6,7 @@ I'm Suman. Here are some of my ongoing projects :
 
 👨‍🏫 http://getsyntacs.com
 
-https://swiftcn.com
+https://mobilecn.lol
 
 
 <!--
