@@ -2,7 +2,7 @@
 
 I'm Suman. Here are some of my ongoing projects :
 
-📸 https://trycaptr.com 
+📸 https://www.dub.sh/captr
 
 👨‍🏫 https://getsyntacs.com
 
