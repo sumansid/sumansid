@@ -2,11 +2,14 @@
 
 I'm Suman. Here are some of my ongoing projects :
 
-📸 https://www.dub.sh/captr
+📸 [Chrome extension to take and edit screenshots](https://www.dub.sh/captr)
 
-👨‍🏫 https://getsyntacs.com
+👨‍🏫 [Language learning app](https://getsyntacs.com)
 
-📱 https://mobilecn.lol
+📱 [Shadcn for React Native (expo)](https://github.com/Mobilecn-UI/nativecn-ui)
+
+🦞 [OpenClaw skill to join meetings](https://github.com/sumansid/openutter)
+
 
 
 <!--
