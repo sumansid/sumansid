@@ -2,15 +2,15 @@
 
 I'm Suman. Here are some of my ongoing projects :
 
-📸 [Chrome extension to take and edit screenshots](https://www.dub.sh/captr)
-
-👨‍🏫 [Language learning app](https://getsyntacs.com)
-
 📱 [Shadcn for React Native (expo)](https://github.com/Mobilecn-UI/nativecn-ui)
 
 🤖 [Claude-app-server, that talks to the Claude CLI](https://github.com/sumansid/claude-app-server)
 
 🦞 [OpenClaw skill to join meetings](https://github.com/sumansid/openutter)
+
+📸 [Chrome extension to take and edit screenshots](https://www.dub.sh/captr)
+
+👨‍🏫 [Language learning app](https://getsyntacs.com)
 
 
 
